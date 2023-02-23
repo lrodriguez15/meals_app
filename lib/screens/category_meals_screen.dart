@@ -5,6 +5,8 @@ import '../dummy_data.dart';
 
 class CategoryMealScreen extends StatelessWidget {
   static const routeName = '/category-meals';
+
+  const CategoryMealScreen({super.key});
   // final String categoryId;
   // final String categoryTitle;
 
